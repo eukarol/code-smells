@@ -1,0 +1,12 @@
+Método de impressão dentro da classe: O método setAlegria() tem uma responsabilidade adicional de imprimir mensagens no console. Isso viola o princípio de responsabilidade única, pois o método deve se concentrar apenas em definir o valor da alegria.
+
+Acoplamento forte: A classe Personagem está acoplada ao sistema de saída do console (System.out.println()). Isso dificulta a reutilização e a manutenção, pois a classe fica vinculada a uma implementação específica de saída.
+
+Método set com lógica complexa: O método setAlegria() está fazendo mais do que apenas definir o valor da alegria. Ele também contém lógica complexa para validar e imprimir mensagens, o que torna o método menos claro e mais difícil de entender.
+
+Número mágico: O valor "10" está codificado diretamente no método setAlegria(). Isso pode ser considerado um número mágico, o que torna o código menos legível e mais difícil de manter.
+
+Mensagens de console codificadas diretamente: As mensagens de console estão codificadas diretamente dentro do método setAlegria(). Isso torna essas mensagens menos flexíveis e mais difíceis de gerenciar se houver necessidade de internacionalização ou personalização.
+
+
+scr/Personagem.java
