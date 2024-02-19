@@ -1,0 +1,108 @@
+CAPITULO_COM_IMAGEM
+O Convite Real
+No Reino Encantado, um convite real chegou às mãos das princesas Eadlyn e Celeste...
+Eadlyn, Celeste
+0                               
+##################################################
+##################################################
+  ################################################
+    ############################################  
+####    ####################################    ##
+########    ############################    ######
+##########    ########################    ########
+##############    ################    ############
+##################  ############  ################
+####################    ####    ##################
+########################    ######################
+##################################################
+##################################################
+##################################################
+##################################################
+##################################################
+##################################################
+##################################################
+##################################################                                         
+ESCOLHA
+O Convite Real
+Aceitar o convite e ir ao baile.
+O Encontro com a Modista
+ESCOLHA
+O Convite Real
+recusar o convite e não ir ao baile.
+Fim da História
+Recusar o convite e não ir ao baile.
+
+CAPITULO
+O Encontro com a Modista
+As princesas, empolgadas com o baile, decidiram visitar a renomada modista, Srta. Judete. Ela aceita fazer os vestidos das princesas?
+Eadlyn, Celeste
+15
+ESCOLHA
+O Encontro com a Modista
+Ela aceita.
+Decisão de Estilos
+ESCOLHA
+O Encontro com a Modista
+Ela recusa.
+Desapontamento
+
+CAPITULO
+Fim da História
+As princesas optaram por não participar do baile e a história chegou ao fim.
+Eadlyn, Celeste
+-10
+
+CAPITULO
+Decisão de Estilos
+A modista propõe duas opções de estilo para os vestidos das princesas...
+Eadlyn, Celeste
+0
+ESCOLHA
+Decisão de Estilos
+Escolher a Fusão de Estilos.
+Estrelas
+ESCOLHA
+Decisão de Estilos
+Escolher a Elegância Tradicional.
+Sem Autoestima
+
+CAPITULO
+Desapontamento
+As princesas ficaram desapontadas e decidiram não ir mais ao baile, pois não confiam em outra modista.
+Eadlyn, Celeste
+-12
+
+CAPITULO
+Sem Autoestima
+As princesas ficaram decepcionadas com os vestidos e optaram por não ir ao baile.
+Eadlyn, Celeste
+-10
+
+CAPITULO
+Estrelas
+As princesas amaram os vestidos. No baile, destacaram-se com suas escolhas e foram admiradas por sua elegância.
+Eadlyn, Celeste
+0              
+                          MM                      
+                        MM##                      
+                        ####mm                    
+                      MM######                    
+                      ########mm                  
+                    mm##########                  
+                    ############mm                
+                  MM##############..              
+    ::########################################@@..
+    ############################################@@
+      ########################################@@  
+        ####################################@@    
+          ################################MM      
+            ############################MM        
+              ########################MM          
+              ########################MM          
+              ##########################          
+              ##########################          
+            MM##########################          
+            ############mm  ############          
+            ########MM          ########          
+            ######                ..####mm        
+            ##                        --##        
